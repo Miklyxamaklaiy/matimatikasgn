@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Для ALS Selector:
+@font-face { font-family: 'ALS Selector'; src: url('/fonts/ALSSelector.woff2') format('woff2'); font-display: swap; }
+:root { font-family: 'ALS Selector', system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; }
+*/
